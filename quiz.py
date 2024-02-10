@@ -1,5 +1,5 @@
 #Introduction
-name = input("Please, allow me introduce myself. I am a K-2SO, reprogrammed Imperial security droid. To proceed further, please, tell me your name: ")
+name = input("Please, allow me introduce myself. I am a K-2SO, reprogrammed Imperial security droid. \nTo proceed further, please, tell me your name: ")
 print(f"{name}? Now, that's a name I've not heard in a long time. A long time.")
 
 yes_no = input("I need to ask you few questions. Do you want to take a little quiz? ")
